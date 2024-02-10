@@ -54,3 +54,5 @@ next-env.d.ts
 !.yarn/versions
 .pnp.*
 
+.idea/
+.idea
